@@ -30,9 +30,3 @@
 - Flutter 3.0.0 或更高版本
 - iOS 12.0+ / Android 8.0+
 
-### 安装步骤
-
-1. **克隆项目**
-   ```bash
-   git clone https://github.com/your-username/tail-stock-picker.git
-   cd tail-stock-picker
